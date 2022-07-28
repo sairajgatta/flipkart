@@ -1,5 +1,7 @@
-class sum 
- hi i am sai raj 
-  ia mm learning devops 
-   by that i can get the good job:wq
-
+class product 
+{
+            public static void main(string ars[])
+	    {        
+	             int n1,n2,res;
+		     scanner s=new}
+}
