@@ -1,7 +1,0 @@
-class product 
-{
-            public static void main(string ars[])
-	    {        
-	             int n1,n2,res;
-		     scanner s=new}
-}
