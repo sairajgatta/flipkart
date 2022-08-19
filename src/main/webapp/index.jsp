@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>               Hello Friends!               </h2>
+<h2>               Hello Friends!R.1.0.0               </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS with GCP!!!!!!!!     </h3>
 <marquee behavior="alternate"> S@TY@</marquee>
 <font color="WHITE"><marquee direction="left" style="background:RED">YSN</marquee></font>
